@@ -1,5 +1,5 @@
 const API_URL = "https://api.openai.com/v1/engines/davinci/completions";
-const API_KEY = "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";
+const API_KEY = "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";
 
 const promptInput = document.getElementById("promptInput");
 const generateBtn = document.getElementById("generateBtn");
